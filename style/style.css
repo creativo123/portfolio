@@ -1,0 +1,181 @@
+@font-face {
+  src: url("../fonts/LUNCH.ttf");
+  font-family: lunch;
+}
+
+body{
+  overflow-x:  hidden;
+}
+
+.shine{
+  cursor : hand;
+  color : white;
+  transition : all 0.5s ease-in-out;
+  font-weight : bold;
+  display : inline;
+  text-decoration:  none !important;
+}
+.shine a{
+  color : white !important;
+}
+a{
+  text-decoration:  none !important;
+}
+.item{
+  margin-left: auto;
+  margin-right: auto;
+}
+.shine a:hover, .shine:hover{
+  color : rgb(255,183,77) !important;
+  transition : all 0.3s ease-in-out;
+}
+.photo {
+  display : block;
+  height : 160px;
+  margin-bottom : 50px;
+}
+.photo img{
+  margin : 30px 0;
+  float : center;
+  width : 150px;
+  height : 150px;
+  border-radius : 150px;
+  border : 2px solid white;
+  transition : all 0.5s ease-in-out;
+}
+.photo img:hover{
+  height : 160px;
+  border-radius : 160px;
+  width : 160px;
+  transition : all 0.5s ease-in-out;
+  border-color : rgb(255,183,77);
+}
+.social-group{
+  display : block;"
+  height : 50px;
+  position : relative;
+}
+.social-group img{
+  width : 35px;
+  height : 35px;
+  margin  : 10px;
+  cursor : hand;
+}
+
+.first-page{
+  margin-top : 52px;
+}
+
+.template-head1{
+  text-align : center;
+  font-family : lunch;
+  color: white;
+  margin: 0px;
+  padding-top : 20px;
+  padding-bottom: 15px;
+}
+
+.first-page .template{
+  height : 300px;
+}
+.template{
+  height:  400px;
+}
+.no-padding{
+  padding: 0px !important;
+}
+
+.no-margin{
+  margin : 0px;
+}
+.single-page{
+  overflow-x: hidden;
+}
+.main-border{
+  height : 50px;
+}
+.svg-style{
+  margin-left : 20px;
+  display : block;
+  float : right;
+  width : 205px;
+}
+
+.left-pane,.right-pane{
+  background-color : rgb(56,52,49);
+  padding-right : 0;
+  height : 60%;
+}
+
+.item-center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.first-section{
+  margin-top: 50px;
+}
+
+.black-button{
+  font-size: 170%;
+  font-family: arial;
+  font-weight: 600;
+  padding: 6% 8%;
+  background-color:rgb(36,36,36);
+  color: white;
+  border-radius: 30px;
+}
+
+.black-button:hover{
+  background-color:  rgb(60,60,60);
+}
+
+.white-div{
+height: 50%;
+width: 50%;
+margin-top: auto;
+margin-bottom: auto;
+ padding: 2% 2%;
+  background-color:rgb(255,255,255);
+border : 2px solid white;
+  border-radius: 25px;
+}
+
+.white-button{
+  font-size: 170%;
+  font-family: arial;
+  font-weight: 600;
+  padding: 6% 6%;
+  background-color:rgb(255,255,255);
+  color: white;
+  border-radius: 25px;
+}
+
+.white-button:hover{
+  background-color:  rgb(180,180,180);
+}
+
+
+@media only screen and (max-width: 900px) {
+
+  .border{
+    display: none !important;
+  }
+
+  .svg-style{
+    padding: 20px;
+    margin-left: 0px;
+    float: none;
+    width: 100%;
+  }
+  .left-pane{
+    padding: 20px;
+    height: auto;
+  }
+  .remove{
+    display: none;
+  }
+  .icon-set{
+    display: none !important;
+  }
+
+}

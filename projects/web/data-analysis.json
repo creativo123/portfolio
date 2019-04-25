@@ -1,0 +1,7 @@
+{"data" : [
+
+{"image":"images/projects/data-analysis/home.png",
+"data":{"title" : "SBI Statement Calculator","front" : "Command Line Interface","back" : "PYTHON | Map Reduce", "db" : "NA" },
+"click" : "#"}
+]
+}

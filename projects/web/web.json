@@ -1,0 +1,39 @@
+{"data" : [
+
+  {"image":"images/projects/tripo/home.jpg",
+    "data":{"title" : "Tripo","front" : "HTML|CSS|JS|BOOTSTRAP","back" : "PHP", "db" : "mysql" },
+    "click" : "http://www.tripo.co.in"},
+
+    {"image":"images/projects/railways/home.jpg",
+      "data":{"title" : "Railway","front" : "HTML | CSS | JS | JQuery","back" : "PHP", "db" : "mysql" },
+      "click" : "http://railway.creativek.me"},
+
+      {"image":"images/projects/omniwash/home.jpg",
+        "data":{"title" : "OmniWash","front" : "HTML | CSS | JS | BOOTSTRAP","back" : "PHP", "db" : "mysql" },
+        "click" : "http://omniwash.creativek.me" },
+
+        {"image":"images/projects/tnp/home.jpg",
+          "data":{"title" : "Training & PLacement","front" : "HTML | CSS | JS |","back" : "PHP", "db" : "mysql" } ,
+          "click" : "http://tnp.creativek.me"},
+
+          {"image":"images/projects/comworld/home.jpg",
+            "data":{"title" : "Comworld","front" : "HTML | CSS | JS | JQuery","back" : "PHP", "db" : "mysql" } ,
+            "click" : "http://comworld.creativek.me"},
+
+            {"image":"images/projects/smark/home.jpg",
+              "data":{"title" : "Smark","front" : "HTML | CSS | JS | BOOTSTRAP","back" : "PHP", "db" : "mysql" } ,
+              "click" : "http://www.smark.co.in"},
+			  
+			  {"image":"images/projects/test-portal/test-portal.png",
+              "data":{"title" : "Test Portal","front" : "HTML | CSS | JS ","back" : "PHP", "db" : "mysql" } ,
+              "click" : "http://test-portal.creativek.me"},
+			  
+			  {"image":"images/projects/department/department.png",
+              "data":{"title" : "Departmental Website","front" : "HTML | CSS | JS ","back" : "PHP", "db" : "mysql" } ,
+              "click" : "http://department.creativek.me"},
+			  
+			  {"image":"images/projects/portfolio/portfolio.png",
+              "data":{"title" : "Portfolio","front" : "HTML | CSS | JS | BOOTSTRAP","back" : "PHP", "db" : "mysql" } ,
+              "click" : "http://www.creativek.me"}
+            ]
+          }
